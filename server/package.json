@@ -3,8 +3,8 @@
   "module": "index.js",
   "type": "module",
   "scripts": {
-    "start": "bun run server.js",
-    "dev": "bun --watch server.js"
+    "start": "bun run index.js",
+    "dev": "bun --watch index.js"
   },
   "devDependencies": {
     "@types/bun": "latest"
